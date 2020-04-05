@@ -4,3 +4,5 @@ To run the program use the command node project5js.js
 # Get Started
 install node js in your machine
 cd to root directory , type "npm install"
+Go to Server running at  http://127.0.0.1:7000/
+
